@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Xjd>
+  <Archive>
+    <ArchiveHeader name="output-tejal.xlsx"/>
+  </Archive>
+  <Parameters>
+    <Parameter name="I8_LegendColor">Black</Parameter>
+    <Parameter name="I8_SolderMaskColor">Black</Parameter>
+    <Parameter name="I8_Thickness">62</Parameter>
+    <Parameter name="I8_SurfaceFinish">ENIG</Parameter>
+  </Parameters>
+  <CustomParameters>
+    <Parameter name="I8_Contact">Purchase Agent</Parameter>
+    <Parameter name="I8_Phone">8474140056</Parameter>
+  </CustomParameters>
+</Xjd>
